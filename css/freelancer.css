@@ -67,6 +67,9 @@ hr.star-primary:after {
 .img-centered {
   margin: 0 auto;
 }
+hr.style2 {
+	border-top: 3px double #8c8b8b;
+}
 header {
   text-align: center;
   background: #18BC9C;
